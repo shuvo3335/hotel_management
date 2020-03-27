@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">English for Hotwl Management</string>
+
+    <string name="gmal">Gmail :</string>
+    <string name="gender">Gender :</string>
+
+    <string name="next">Continue</string>
+    <string name="skip">Continue</string>
+    <string name="start">Get Started</string>
+
+    <string name="welcome_1_title">Welcome to Javatpoint!</string>
+    <string name="welcome_1_desc">Javatpoint is passionate to offer better technical content to the world.</string>
+
+    <string name="welcome_2_title">Android</string>
+    <string name="welcome_2_desc">Android is a mobile operating system developed by Google.</string>
+    <string name="about_me">Hi I’m Nick. I’ve been developing apps for iPhones and iPads
+        since Apple first created the App Store and opened the iOS platform to 3rd party
+        developers in 2008.I’m a Entrepreneurial App Developer &amp; Consultant. My client work
+        is exciting and diverse. As well as being a very experienced coder I’ve also attained
+        a wealthof knowledge of consumer and enterprise app distribution and am regularly
+        commissioned to consult and help clients make the most of the incredible Apple
+        technologies that have becomesuch a core part of our culture over the last 8 years.</string>
+
+</resources>
